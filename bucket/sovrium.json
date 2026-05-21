@@ -1,12 +1,12 @@
 {
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Configuration-driven web application platform",
   "homepage": "https://sovrium.com",
   "license": "BUSL-1.1",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/sovrium/sovrium/releases/download/v0.5.1/sovrium-0.5.1-windows-x64.zip",
-      "hash": "sha256:917e5183261d3c3fec232a7a994b1e00b5e157cfae65f1efee384b4ed47997fe"
+      "url": "https://github.com/sovrium/sovrium/releases/download/v0.5.2/sovrium-0.5.2-windows-x64.zip",
+      "hash": "sha256:CHECKSUM_NOT_AVAILABLE"
     }
   },
   "bin": "sovrium-windows-x64.exe",
